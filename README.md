@@ -5,9 +5,9 @@
 * 💻 I'm a career changer into tech
 * 🌱 I’m currently deep diving into React
 * 🎓 I'm a BSc Physiology Graduate
-* 🎨 I'm also a PGDip in Information communication technology with a speciality in UX/UI Design
+* 🎨 I'm also a PGDip in Information communication technology graduate with a speciality in UX/UI Design
 * 😄 Pronouns: She/Her
-* :coffee: black thank you
+* :coffee: Black thank you
 
 <!--
 **KirianaBrown/KirianaBrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
