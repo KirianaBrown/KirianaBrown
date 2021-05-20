@@ -1,5 +1,5 @@
 
-<h3 align="center">Hey there 👋, I'm Kiriana </h3>
+<h3 align="center">Hey there 👋 I'm Kiriana </h3>
 <hr>
 
 ## 📖 About me
