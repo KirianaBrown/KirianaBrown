@@ -5,11 +5,14 @@
 ## 📖 About me
 
 * 💻 I'm a career changer into tech
-* 🌱 I’m currently deep diving into React
-* 🎓 I'm a BSc Physiology Graduate
-* 🎨 I'm also a PGDip in Information communication technology graduate with a speciality in UX/UI Design
+* 🌱 Currently diving into the world of React
+* 🚀 Built projects in Javascript, Python, Flask
+* 🎓 Holds a Bachelor of Science in Physiology and Anatomy
+* 🎨 Retrained in 2018 and gained a Graduate Diploma in Information Communication Technology (with excellence)
 * 😄 Pronouns: She/Her
-* :coffee: Black thank you
+* 🏑 Ex-Field Hockey Rep
+* 🏏 Test match > 20/20
+* :coffee: Pour over V60 / Orgami Dripper / Chemex fuelled
 
 <!--
 **KirianaBrown/KirianaBrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
