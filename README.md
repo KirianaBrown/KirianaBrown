@@ -7,10 +7,7 @@
 * 💻 I'm a career changer into tech
 * 🌱 Finds coding a beautiful blend of creativity and logic
 * 🚀 Experience with: Javascript / React / Python / Flask / Postgres
-* 🔭 I’m currently working on a E-commerce side project for {sssshhh} company
-* 🎓 Holds a Bachelor of Science in Physiology 
-* 🎨 Retrained in 2018 and gained a Graduate Diploma in Information Communication Technology (with excellence)
-* 😄 Pronouns: She/Her
+* 🎓 BSc in Physiology && GradDip ICT
 * 🏑 Ex-Field Hockey Rep
 * 🏏 Test match > 20/20
 * :coffee: Pour over V60 / Orgami Dripper / Chemex fuelled
