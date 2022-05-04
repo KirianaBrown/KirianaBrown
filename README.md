@@ -16,7 +16,8 @@
 * :coffee: Pour over V60 / Orgami Dripper / Chemex fuelled
 
 
-## Latest Project: Covid-19 NZ Locations of Interest
+#### Latest Project: Covid-19 NZ Locations of Interest
+![alt text](https://github.com/KirianaBrown/KirianaBrown/blob/main/demo.png "Logo Title Text 1")
 
 
 [Check it out here!!!!](https://covid19-nzlocations.netlify.app/)
