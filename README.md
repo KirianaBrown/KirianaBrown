@@ -5,9 +5,10 @@
 ## 📖 About me
 
 * 💻 I'm a career changer into tech
-* 🌱 Currently diving into the world of React
-* 🚀 Built projects in Javascript, Python, Flask
-* 🎓 Holds a Bachelor of Science in Physiology and Anatomy
+* 🌱 Finds coding a beautiful blend of creativity and logic
+* 🚀 Experience with: Javascript / React / Python / Flask / Postgres
+* 🔭 I’m currently working on a E-commerce side project for {sssshhh} company to allow better access for friends and family ordering
+* 🎓 Holds a Bachelor of Science in Physiology 
 * 🎨 Retrained in 2018 and gained a Graduate Diploma in Information Communication Technology (with excellence)
 * 😄 Pronouns: She/Her
 * 🏑 Ex-Field Hockey Rep
