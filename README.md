@@ -2,7 +2,7 @@
 <h3 align="center">Hey there 👋 I'm Kiriana </h3>
 <hr>
 
-## 📖 About me
+<!-- ## 📖 About me
 
 * 💻 I'm a career changer into tech
 * 🌱 Finds coding a beautiful blend of creativity and logic
@@ -17,7 +17,7 @@
 ![alt text](https://github.com/KirianaBrown/KirianaBrown/blob/main/demo.png "Logo Title Text 1")
 
 
-[Check it out here!!!!](https://covid19-nzlocations.netlify.app/)
+[Check it out here!!!!](https://covid19-nzlocations.netlify.app/) -->
 
 <!--
 **KirianaBrown/KirianaBrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
